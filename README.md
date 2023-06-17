@@ -4,7 +4,7 @@ A fast-paced post-apocalyptic 2D side-scrolling runner game. Players take on the
 
 ---
 
-![Game Preview](/images/games/Apocclipse_2.png)
+![Game Preview]([/images/games/Apocclipse_2.png](https://github.com/GelzoneXUnsas/Apocclipse/blob/main/Assets/Sprites/Apocclipse_2.png))
 
 * [Play Online](https://gelzonexunsas.itch.io/apocclipse)
 
